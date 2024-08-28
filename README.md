@@ -3,8 +3,8 @@
 👀 Estou interessado em desenvolvimento Python, automação, análise de dados, construção de dashboards no Power BI, e trabalhar com APIs JD  
 👀 I’m interested in Python development, automation, data analysis, building dashboards in Power BI, and working with JD APIs  
 
-💞️ Estou procurando colaborar em projetos relacionados a soluções orientadas por dados, integrações de APIs, e automação de processos  
-💞️ I’m looking to collaborate on projects related to data-driven solutions, API integrations, and process automation  
+ Estou procurando colaborar em projetos relacionados a soluções orientadas por dados, integrações de APIs, e automação de processos  
+ I’m looking to collaborate on projects related to data-driven solutions, API integrations, and process automation  
 
 📫 How to reach me: [paulo360henrique@outlook.com | paulo.dossantos@nisseymaquinas.com.br]  
 

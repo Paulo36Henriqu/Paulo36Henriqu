@@ -1,42 +1,53 @@
-# Olá, eu sou Paulo | Hello, I’m Paulo
+# Hey there, I'm Paulo Henrique 👋
 
-👀 Estou interessado em desenvolvimento Python, automação, análise de dados, construção de dashboards no Power BI, e trabalhar com APIs JD  
-👀 I’m interested in Python development, automation, data analysis, building dashboards in Power BI, and working with JD APIs  
+Computer Engineering graduate passionate about turning data into decisions. I build automation tools, data pipelines, and dashboards — with a strong focus on the agricultural tech ecosystem through John Deere APIs.
 
- Estou procurando colaborar em projetos relacionados a soluções orientadas por dados, integrações de APIs, e automação de processos  
- I’m looking to collaborate on projects related to data-driven solutions, API integrations, and process automation  
+---
 
-📫 How to reach me: [paulo360henrique@outlook.com | paulo.dossantos@nisseymaquinas.com.br]  
+##  About Me
 
-⚡ Curiosidade: [Bots usando Python para web Scraping]  
-⚡ Fun fact: [Bots using Python for web Scraping]
+-  **B.Sc. in Computer Engineering** — Graduated December 2024
+-  Currently deepening expertise in **data engineering** and **API integrations**
+-  I enjoy building bots and scrapers that make repetitive tasks disappear
+-  Based in Brazil, working at the intersection of agtech and software
 
-🎓 **Formação:**  
-- Engenharia da Computação (Conclusão em 12/2024)
-- JD Tech Digital - John Deere
+---
 
-## 📝 Projetos Recentes
+## 🛠️ Tech Stack
 
-- **yt-Downloader** ([link do projeto](https://github.com/Paulo36Henriqu/yt-Downloader))  
-  Projeto em Python que permite o download de vídeos do YouTube em MP3, MP4 ou Playlists. Utiliza a biblioteca `yt-dlp` para a extração e conversão dos vídeos.
+**Languages**
+```
+Python · Flask · SQL · JavaScript · HTML/CSS · DAX · M (Power Query)
+```
 
-## 🛠 Tecnologias e Ferramentas
+**Data & Analytics**
+```
+Pandas · NumPy · Power BI · NoSQL
+```
 
-- **Linguagens de Programação:**  
-  - **Python:** Scripts para automação, análise de dados, e bots.
-  - **SQL:** Consultas e manipulação de dados em bancos de dados relacionais.
-  - **HTML/CSS/JS:** Desenvolvimento básico de front-end.
-  - **NoSQL:** Manipulação de dados em bancos NoSQL.
-  - **DAX e M:** Modelagem e cálculos no Power BI.
+**Web & APIs**
+```
+Flask · REST APIs · John Deere Operations Center API · Web Scraping
+```
 
-- **Ferramentas:**  
-  - **Power BI:** Construção de dashboards interativos.
-  - **APIs John Deere:** Integrações e extração de dados.
-  - **Pandas e NumPy:** Análise e manipulação de dados em Python.
-  - **Flask:** Desenvolvimento de aplicações web.
-  - **SQL:** Administração e consulta em bancos de dados relacionais.
 
-## 📞 Contato
+---
 
-- [LinkedIn](https://www.linkedin.com/in/paulo360henrique/)
-- [Instagram](https://www.instagram.com/paulo36_henrique/)
+##  What I'm Looking For
+
+I'm open to collaborating on projects involving:
+- **Data-driven automation** — reducing manual work through smart scripts
+- **API integrations** — especially in agricultural or industrial contexts
+- **Dashboard development** — Power BI or Python-based reporting
+
+---
+
+## 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo_Henrique-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo360henrique/)
+[![Instagram](https://img.shields.io/badge/Instagram-@paulo36__henrique-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/paulo36_henrique/)
+[![Email](https://img.shields.io/badge/Email-paulo360henrique@outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:paulo360henrique@outlook.com)
+
+---
+
+*"Automate the boring stuff. Focus on what matters."*

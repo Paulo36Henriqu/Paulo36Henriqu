@@ -1,4 +1,4 @@
-# Hey there, I'm Paulo Henrique 👋
+# Hey there, I'm Paulo 👋
 
 Computer Engineering graduate passionate about turning data into decisions. I build automation tools, data pipelines, and dashboards — with a strong focus on the agricultural tech ecosystem through John Deere APIs.
 
